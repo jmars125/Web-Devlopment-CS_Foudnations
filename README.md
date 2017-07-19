@@ -8,7 +8,7 @@
 The greatest thing about the internet is the democratisation of information. Like no other time in history, more people from more backgrounds and circumstances have access to the resources and information that they wouldn't have previously. Through hardwork, dedication and coffee, I hope to be a shining example of what can be accomplished with a laptop and some free-time.<p>
 <p>This project exists mainly to demonstrate to others my self-learning process. I've included the notes and projects for anybody to look at and get an idea of how I have progressed and developed myself as a developer.</p>
 
-<p>Also here you can find the path I have been following commencing on the 23rd December 2016. <br/> <a href="https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516"> Web Development with Computer Science Foundations - comprehensive path by @P1xt. </a></p>
+<p>Also here you can find the path I have been following commencing on the 23rd December 2016. <br/> <a href="https://github.com/P1xt/p1xt-guides/blob/master/wd-cs.md"> Web Development with Computer Science Foundations - comprehensive path by @P1xt. </a></p>
 
 
 <h2> Learning Path</h2>
