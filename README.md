@@ -2,7 +2,7 @@
 
 <br>
 <h2>Synopsis</h2>
-<p>I've created this git repository to document the development of my skills and knowledge in web development and build a strong foundational base in the relevant computer science subjects</p>
+<p>I've forked this git repository from MrDotDarko to document the development of my skills and knowledge in web development and build a strong foundational base in the relevant computer science subjects</p>
 
 <h2>Motivation</h2>
 The greatest thing about the internet is the democratisation of information. Like no other time in history, more people from more backgrounds and circumstances have access to the resources and information that they wouldn't have previously. Through hardwork, dedication and coffee, I hope to be a shining example of what can be accomplished with a laptop and some free-time.<p>
